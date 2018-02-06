@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="new_game">new game</string>
+    <string-array name="words">
+        <item>auto</item>
+        <item>taczka</item>
+        <item>cazzo</item>
+    </string-array>
+</resources>
